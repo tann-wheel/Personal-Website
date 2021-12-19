@@ -1,0 +1,75 @@
+#title{
+    background-color: #ff4c68;
+    color:#fff;
+}
+.navbar{
+    padding: 0 0 4rem;
+    
+}
+.container-fluid{
+    padding:3% 15% 7%;
+}
+.title-image{
+    border-radius: 100%;
+    margin-left: 20%;
+    transform: rotate(25deg);
+}
+p{
+    padding-top:1.5rem;
+}
+.nav-item{
+    padding:0 18px;
+}
+.navbar-brand{
+    font-size:3rem;
+}
+#education{
+    padding-top: 5%;
+    text-align: center;
+}
+.education-box{
+    padding:5%;
+}
+.icon{
+    color:#ef8172;
+}
+.marketting-image{
+    width:20%;
+    border-radius: 100%;
+      float:left;
+      margin-right: 30px;
+    
+
+    
+}
+.programming-image{
+    width:20%;
+    border-radius: 100%;
+      float:right;
+      margin-left: 30px;
+}
+#skill{
+    background-color: #ff4c68;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    color:#fff;
+}
+.skill-row{
+    width:50%;
+  margin:100px auto 100px auto;
+  text-align:left;
+  line-height: 2;
+}
+.carousel-item{
+    padding:7% 15%;
+}
+#certificates{
+    background-color: #ff4c68;
+    text-align: center;
+    color: #fff;
+}
+#contact{
+    padding:100px;
+    text-align: center;
+}
